@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>最新提交：软件</title>
+    <link>https://www.reddit.com/r/software/new</link>
+    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Wed, 25 Oct 2023 06:22:20 GMT</lastBuildDate>
+    <item>
+      <title>Windows 游戏屏幕录制没有进度条，工具栏中也没有图标？</title>
+      <link>https://www.reddit.com/r/software/comments/17fy9c7/a_windows_gaming_screen_recording_without/</link>
+      <description><![CDATA[标题。并且免费（如果存在）。请谢谢您！   由   提交 /u/MustardDinosaur   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/17fy9c7/a_windows_gaming_screen_recording_without/</guid>
+      <pubDate>Wed, 25 Oct 2023 06:14:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一个使用没有结束时间代码的字幕的视频播放器或一种修复字幕文本文件而没有结束时间代码的方法</title>
+      <link>https://www.reddit.com/r/software/comments/17fsift/looking_for_a_video_player_that_works_using/</link>
+      <description><![CDATA[我正在寻找一种为 youtube 上没有 cc 字幕的视频生成字幕的方法（它们通常是很长的视频，例如 7 小时以上）很长一段时间我找到的唯一解决方案是下载 mp3 并使用 microsoft 365 转录音频文件，转录的准确性令人惊叹，但我得到的文件如下所示：  00:05:59 非常抱歉。坚持，稍等。我就这样。 00:06:05 喝点水。 ​ 当字幕通常有这样的开始时间和结束时间时： 00:05:59 --&gt; 00:06:04 ​ 有没有可以在没有结束时间代码的情况下工作的 mp4 播放器？ 喜欢将显示 00:05:59 字幕，直到 00:06:05 出现下一个字幕 ​ 或任何可以修复我的文本文件的软件/网页并根据下一个时间戳自动添加结束时间戳。 ​ 谢谢 ​ 编辑：如果重要的话，我想要实现的是观看带有英文字幕的 youtube 英文视频（我部分聋了为什么我需要字幕）我的网速不错，所以我不介意下载视频并在视频上观看它们播放器应用   由   提交/u/miguel1118  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/17fsift/looking_for_a_video_player_that_works_using/</guid>
+      <pubDate>Wed, 25 Oct 2023 00:53:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有一种适用于 Windows 的软件，字面意思是记事本，但可以在断电时自动保存数据？类似于Notepad++，但极其简化，基本上看起来像Notepad</title>
+      <link>https://www.reddit.com/r/software/comments/17fq4ar/is_there_a_software_for_windows_that_is_literally/</link>
+      <description><![CDATA[由于随机断电而丢失了 1 小时的随机笔记，我不记得它们了，这让我很伤心，因为它们对我很重要。   由   提交 /u/Xillenn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/17fq4ar/is_there_a_software_for_windows_that_is_literally/</guid>
+      <pubDate>Tue, 24 Oct 2023 23:00:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>搜索自动字幕和翻译视频/音频的免费网站或软件</title>
+      <link>https://www.reddit.com/r/software/comments/17fny0o/searching_for_a_free_site_or_software_that/</link>
+      <description><![CDATA[标题，我想要一些不需要付款且不只提供“免费试用”的东西。谢谢！   由   提交 /u/MacIntoic   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/17fny0o/searching_for_a_free_site_or_software_that/</guid>
+      <pubDate>Tue, 24 Oct 2023 21:30:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adobe Acrobat 替代品？</title>
+      <link>https://www.reddit.com/r/software/comments/17fl6qo/adobe_acrobat_replacement/</link>
+      <description><![CDATA[我对 Adob​​e 很恼火。他们的平台是资源密集型的、昂贵的，而且真的感觉像是在与垄断打交道。 您使用谁来处理您的 pdf？我需要能够扫描、阅读、编辑和阅读。首选OCR。对于Windows。开源将是一个巨大的优势，但不是必需的。 有人吗？   由   提交 /u/BrokieTrader   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/17fl6qo/adobe_acrobat_replacement/</guid>
+      <pubDate>Tue, 24 Oct 2023 19:33:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要音频内容整理软件</title>
+      <link>https://www.reddit.com/r/software/comments/17fib7l/need_audio_content_sorting_software/</link>
+      <description><![CDATA[我使用的是 Windows 10。 我正在寻找一款可用于对其中的信息位进行排序和导航的软件无数的音频文件，每个文件长达几个小时。例如，假设我有一百个独立的 3 小时录音，并且在整个录音中随机提到长颈鹿 300 次。我希望能够为录音片段添加“长颈鹿”标签，然后可以选择单击该标签并让它显示我标记的一百个录音中所有片段的链接。  有什么软件可以满足我的需求吗？   由   提交 /u/PapaDomino9923   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/17fib7l/need_audio_content_sorting_software/</guid>
+      <pubDate>Tue, 24 Oct 2023 17:31:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>请求印度教寺庙日常运营软件参考</title>
+      <link>https://www.reddit.com/r/software/comments/17fhgf3/requesting_reference_for_software_for_hindu/</link>
+      <description><![CDATA[请求提供您为管理印度教寺庙的日常运营而实施的软件/软件包的参考信息。有开源/免费软件版本吗？   由   提交 /u/VedantaSay   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/17fhgf3/requesting_reference_for_software_for_hindu/</guid>
+      <pubDate>Tue, 24 Oct 2023 16:54:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>可以检测并列出硬盘上重复文件的软件吗？</title>
+      <link>https://www.reddit.com/r/software/comments/17fgu8a/a_software_that_can_detect_and_list_duplicate/</link>
+      <description><![CDATA[一年半前我买了一块 1TB 硬盘。三部不同的手机（不是全部是我的）、旧电脑和当前的笔记本电脑，我总共有大约 400GB。我确实知道有一些重复的文件，即我的大学/工作著作之外的照片和视频，位于几个不同的文件夹中。然而，由于手机以它们的方式命名照片，我没有所有的名称来手动搜索它们。我们谈论的是多年来在几个不同文件夹中的数千张照片，没有时间手动检查每张照片并查找重复项。 是否有任何适用于 Windows 的优秀软件可以检测这些重复项，这样我就可以删除它们？   由   提交/u/fuzzypipe39  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/17fgu8a/a_software_that_can_detect_and_list_duplicate/</guid>
+      <pubDate>Tue, 24 Oct 2023 16:27:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于编辑大型 XML 文件的免费 Windows 软件？</title>
+      <link>https://www.reddit.com/r/software/comments/17fe03y/free_windows_software_to_edit_large_xmlfiles/</link>
+      <description><![CDATA[ 由   提交/u/xtreme79  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/17fe03y/free_windows_software_to_edit_large_xmlfiles/</guid>
+      <pubDate>Tue, 24 Oct 2023 14:22:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一个从父目录下载文件的工具</title>
+      <link>https://www.reddit.com/r/software/comments/17fdvjc/need_an_tool_for_download_files_from_an_parent/</link>
+      <description><![CDATA[我尝试过类似的工具，例如 DownloadThemALL 免费下载管理器  jDownloader 它们都不适合我。   由   提交/u/Desire-Protection  /u/Desire-Protection reddit.com/r/software/comments/17fdvjc/need_an_tool_for_download_files_from_an_parent/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/17fdvjc/need_an_tool_for_download_files_from_an_parent/</guid>
+      <pubDate>Tue, 24 Oct 2023 14:16:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的驱动器上有超过 19000 张图像...我需要从中删除我前任的所有照片。</title>
+      <link>https://www.reddit.com/r/software/comments/17fdcfv/i_have_over_19000_images_on_my_drivei_need_to/</link>
+      <description><![CDATA[好吧，我不知道这是否允许，但事情是这样的：我和我的前任分手了。我需要一个软件来帮助我找到我电脑上所有他的照片并将其删除。  我是一个有点混乱的图片整理者，所以我的驱动器上散落着他的照片，来自我拍摄的照片，他发给我的照片，屏幕截图，yada yada 经常嵌套在俄罗斯套娃的文件夹中。它无处不在。这就像严重的感染。我尝试删除尽可能多的文件，但似乎每次打开一些标题模糊的文件夹时，我都会遇到更多文件。 你们都知道有一个可以帮助我清理的软件吗？搞砸了还是我彻底搞砸了？   由   提交 /u/WastefulTablespoon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/17fdcfv/i_have_over_19000_images_on_my_drivei_need_to/</guid>
+      <pubDate>Tue, 24 Oct 2023 13:52:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>在黑暗中拍摄 - 视频播放器可以在播放列表中的视频中交叉淡入淡出或淡入/淡出，同时随机播放它们。</title>
+      <link>https://www.reddit.com/r/software/comments/17fdb7w/shot_in_the_dark_video_player_that_can_crossfade/</link>
+      <description><![CDATA[我要举办万圣节派对，我有一个很大的播放列表，其中包含我想要使用投影仪显示的效果和旧恐怖电影剪辑。 VLC 播放器可以随机播放这些剪辑，但它们之间不能淡入淡出！我已经检查了所有地方，但没有编写自己的 FFmpeg 脚本，没有解决方案。  我最好在带有 debian fork 的小型树莓派上运行它，但如果需要播放视频，我也有 Windows 笔记本电脑和 MacBook。  ​ 它不必支持完整的 x 淡入淡出，它也可以在剪辑之间淡入和淡出黑色，我只是想要一些不支持的东西从一个剪辑跳到另一个剪辑如此刺耳。    由   提交/u/Prophet_60091_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/17fdb7w/shot_in_the_dark_video_player_that_can_crossfade/</guid>
+      <pubDate>Tue, 24 Oct 2023 13:50:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一款具有特定功能的视频播放软件</title>
+      <link>https://www.reddit.com/r/software/comments/17fbmyd/need_a_video_playing_software_with_specific/</link>
+      <description><![CDATA[嗨，我一直想知道是否有任何视频播放器可以模拟 crt 电视，主要用于观看 4:3 的老动漫   由   提交 /u/KeanuReevesGod   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/17fbmyd/need_a_video_playing_software_with_specific/</guid>
+      <pubDate>Tue, 24 Oct 2023 12:30:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找 muurgeealternative 的自动键盘！</title>
+      <link>https://www.reddit.com/r/software/comments/17f9i1i/looking_for_auto_keyboard_by_murgee_alterantive/</link>
+      <description><![CDATA[您好，我正在寻找 murgee 自动键盘的替代品。在我看来，支付 8 美元在一台机器上使用软件 6 个月实在是太懒了。 软件只需在我希望它运行的特定窗口中每 20 秒按下一个特定按钮（TF2/ CS2 游戏）。没什么太花哨的。而且它必须是免费的。如果您知道这样的软件 - 请回复！   由   提交 /u/Scarlet_Barawan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/17f9i1i/looking_for_auto_keyboard_by_murgee_alterantive/</guid>
+      <pubDate>Tue, 24 Oct 2023 10:23:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费的应用程序/网络可以帮助我根据我保存的 Google 地图目的地/文件夹创建优化的导游？</title>
+      <link>https://www.reddit.com/r/software/comments/17f3pha/free_appsweb_that_could_help_me_create_optimized/</link>
+      <description><![CDATA[您好！我希望你一切顺利。 我正在计划去邻国旅行，我想知道是否有任何有用的软件（在线，Android 应用程序）可以帮助我更好地计划我的旅行使用我在 Google 地图上保存的地点。 我知道有多个选项，例如 Roadtrippers 和 MyRouteOnline，但其中许多选项都有限制，除非您订阅并付款。 提前谢谢您！我希望这篇文章可以帮助未来的旅行者。   由   提交 /u/JorgeManoDura   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/17f3pha/free_appsweb_that_could_help_me_create_optimized/</guid>
+      <pubDate>Tue, 24 Oct 2023 03:47:07 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
