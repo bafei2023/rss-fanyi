@@ -11,4 +11,4 @@
  📢查看[ 本页 ](https://bafei2023.github.io/rss-fanyi) 参考自[ rss-translate ](https://github.com/bafei2023/rss-fanyi)
 
 ## 已转换翻译源
- - source001 [https://rsshub.rssforever.com/reuters/world/china](https://rsshub.rssforever.com/reuters/world/china) -> [Artificial_intelligence_in](rss/Artificial_intelligence_in.xml)
+ - source001 [https://rsshub.rssforever.com/reuters/world/china](https://rsshub.rssforever.com/reuters/world/china) -> [reuters_cn](rss/reuters_cn.xml)
