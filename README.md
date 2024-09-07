@@ -2427,3 +2427,4 @@
  - source001 [https://rsshub.rssforever.com/reuters/world/china](https://rsshub.rssforever.com/reuters/world/china) -> [reuters_cn.xml](rss/reuters_cn.xml)
  - source001 [https://rsshub.rssforever.com/reuters/world/china](https://rsshub.rssforever.com/reuters/world/china) -> [reuters_cn.xml](rss/reuters_cn.xml)
  - source001 [https://rsshub.rssforever.com/reuters/world/china](https://rsshub.rssforever.com/reuters/world/china) -> [reuters_cn.xml](rss/reuters_cn.xml)
+ - source001 [https://rsshub.rssforever.com/reuters/world/china](https://rsshub.rssforever.com/reuters/world/china) -> [reuters_cn.xml](rss/reuters_cn.xml)
